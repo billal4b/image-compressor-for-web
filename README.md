@@ -1,2 +1,2 @@
 # image-compressor-for-web
-Image compressor for web (jpg, png, git to webp convert)
+Image compressor for web (jpg, jpeg, png, gif to webp convert)
